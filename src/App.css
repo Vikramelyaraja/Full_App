@@ -1,0 +1,137 @@
+.App {
+  border: 2px solid #d3d3d3;
+  border-radius: .5em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  padding: 1em;
+  text-align: left;
+  width: 500px;
+}
+ 
+.form {
+  padding: 1em;
+}
+ 
+label {
+  font-weight: 600;
+}
+button {
+  margin-top: 100px;
+  width: 295px;
+}
+button1 {
+  margin-left: 1000px;
+}
+input1 {
+  width: 700px;
+
+}
+input2 {
+  width: 400px;
+  
+}
+
+body {
+  background: url(https://images.pexels.com/photos/3120135/pexels-photo-3120135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  /* rgb(182, 228, 212) !important; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.heading {
+  text-align: center;
+  font-size: 33px;
+  font-weight: bold;
+  color: #063b37;
+  padding-top: 7px;
+}
+.container {
+  max-width: 350px !important;
+  width: 84%;
+  backdrop-filter: blur(5px);
+  /* background-color:  rgb(240, 253, 249); */
+  border-radius: 9px;
+  opacity: 0.9;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 10px 26px;
+  box-shadow: 0 0 10px 6px #2a443a25;
+}
+
+form {
+  padding: 10px 16px;
+  width: 100%;
+}
+.form-container {
+  width: 100%;
+}
+label {
+  line-height: 1.9;
+}
+input {
+  display: block;
+  width: 140%;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid rgb(44, 122, 103);
+}
+.submit-btn {
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  padding: 12px 15px;
+  margin-top: 17px;
+  background-color: #063b37;
+  color: rgb(184, 251, 253);
+  border: none;
+  border-radius: 5px;
+}
+
+.validation-errors {
+  font-size: 0.8em;
+  color: rgb(212, 18, 18);
+  line-height: 1;
+  margin-top: 0;
+}
+.App1{
+  text-align: center;
+  flex:1;
+  justify-content: center;
+  background-color:rgb(108, 211, 108);
+  width:70px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left:100px;
+  flex-direction:row;
+}
+.App2{
+  text-align: center;
+  flex:1;
+  justify-content: center;
+  background-color:rgb(131, 216, 231);
+  width:70px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left:100px;
+  flex-direction:row;
+}
+.App3{
+  text-align: center;
+  flex:1;
+  justify-content: center;
+  background-color:rgb(236, 113, 230);
+  width:70px;
+  height: 30px;
+  margin-top: 20px;
+  margin-left:100px;
+  flex-direction:row;
+}
+.layout{
+  height:100px;
+  width: 100px;
+  margin-top: 20px;
+  
+
+}
